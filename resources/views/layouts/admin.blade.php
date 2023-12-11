@@ -70,7 +70,7 @@
           </li>
           <li class=" nav-item"><a href="/admin/users"><i class="la la-user"></i><span class="menu-title" data-i18n="">Users</span></a>
           </li>
-          <li class=" nav-item"><a href="/admin/movies/"><i class="la la-file-movie-o"></i><span class="menu-title" data-i18n="">MOVIES</span></a>
+          <li class=" nav-item"><a href="/admin/movies/"><i class="la la-file-movie-o"></i><span class="menu-title" data-i18n="">Movies</span></a>
           </li>
           <li class="nav-item"><a href="/admin/rooms"><i class="la la-home"></i><span class="menu-title" data-i18n="">Rooms</span></a>
           </li>

@@ -14,7 +14,7 @@
                         </div>
                     @endif
 
-                    {{ __('you are logged in to the Admin dashboard') }}
+                    {{ __('You are logged in to the Admin dashboard') }}
                 </div>
             </div>
         </div>
